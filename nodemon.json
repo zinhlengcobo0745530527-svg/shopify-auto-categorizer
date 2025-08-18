@@ -1,0 +1,6 @@
+{
+  "watch": ["server.mjs", "app/"],
+  "ignore": ["venv/", "node_modules/"],
+  "ext": "js,mjs,json",
+  "exec": "node server.mjs"
+}
